@@ -11,7 +11,7 @@ The trainee project encompasses both functional and non-functional requirements,
 In order to foster collaboration, maintain a clean and understandable commit history, and streamline the development process, they prove valuable for project management and code maintenance:
 
 1. ### 🎲 Squash and Merge
-   When working in feature branches, use the "Squash and Merge" feature when merging your changes into the main branch (usually main or master). This helps maintain a clean commit history, reduces clutter, and simplifies understanding of changes by other team members.
+   When working in feature branches, use the "Squash and Merge" feature when merging your changes into the target branch (usually develop or main). This helps maintain a clean commit history, reduces clutter, and simplifies understanding of changes by other team members.
 
 2. ### 🔄 Rebase Policy
    If you need to integrate the latest changes from the main branch into your feature branch, it is preferable to use rebase instead of regular merging. This helps maintain a clean commit history, reduces the likelihood of conflicts, and contributes to a clearer history of changes in your repository.
